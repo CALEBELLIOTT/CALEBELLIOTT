@@ -8,7 +8,7 @@ A little bit about me...
 
 - 🏃‍♂️ I love to exercise and regularly go to HIIT classes
 - 🧗‍♂️ I really enjoy climbing whenever I get the chance
-- 💰 I am an avid investor and love to talk finance
+- 💰 I am an avid investor and even have a blog where I discuss topics in finance
 - ⛺️ Backpacking and camping are some of my favorite activites
 
 Contact me!
