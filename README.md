@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I'm glad that you have arrived at my github page! I am a full-stack web development student at Boise Codeworks. I got started coding in January of 2022 and have been passionately learning ever since. 
+I'm glad that you have arrived at my github page! I am a full-stack Software Developer located in Boise Idaho. I love programming and have been passionatly learning ever since "hello world".
 
-My path to landing on this career has been a winding one- from graduating magna cum laude with a bachelors of science in Biology, to earning my EMT certification, I have dabbled a little bit in everything. However, upon learning about the tech career path and arriving at Boise Codeworks, my excitement for programming has only increased and I am confident that this is what I want to do!
+My path to landing on this career has been a winding one- from graduating with a bachelors of science in Biology, to earning my EMT certification, I have dabbled a little bit in everything. However, upon learning about the tech career path and beginning my coding journey, my excitement for programming has only increased and I wake up every morning ready to tackle new problems. 
+
+My Tech Stack...
+
+- Vue.js
+- .Net core C#
+- MySQL
+
+I am also well versed with vanilla javascript (MVC), CSS, Node.js, MongoDb, Bootstrap, and more!
+
 
 A little bit about me...
 
