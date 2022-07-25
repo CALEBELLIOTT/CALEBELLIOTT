@@ -7,7 +7,7 @@ My path to landing on this career has been a winding one- from graduating with a
 My Tech Stack...
 
 - Vue.js
-- .Net core C#
+- C# (.net)
 - MySQL
 
 I am also well versed with vanilla javascript (MVC), CSS, Node.js, MongoDb, Bootstrap, and more!
