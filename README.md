@@ -2,7 +2,7 @@
 
 I'm glad that you have arrived at my github page! I am a full-stack Software Developer located in Los Angeles. I love programming and have been passionatly coding ever since "hello world".
 
-I'm currently working with React, Redux, Material UI, Node.js, GraphQL, and Amazon DynamoDB.
+I'm currently working with React, Redux, Material UI, Node.js, GraphQL, Lambda, and Amazon DynamoDB.
 
 Contact me!
 
