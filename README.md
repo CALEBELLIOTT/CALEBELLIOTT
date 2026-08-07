@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Contact me
-
 - 📬 caleb123elliott@gmail.com
 - 💼 [linkedin](https://www.linkedin.com/in/caleb-elliott-9368b3226/)
 
