@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm glad that you have arrived at my github page! I am a full-stack Software Developer located in Los Angeles. I love programming and have been passionatly coding ever since "hello world".
-
-Contact me!
+Contact me
 
 - 📬 caleb123elliott@gmail.com
 - 💼 [linkedin](https://www.linkedin.com/in/caleb-elliott-9368b3226/)
